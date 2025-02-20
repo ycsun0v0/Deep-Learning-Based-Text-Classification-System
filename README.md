@@ -125,12 +125,4 @@ This project is a deep learning-based text classification system developed for c
 - **TextCNN:** Convolutional neural network model that uses multiple convolutional filters of different sizes to extract features from text sequences.
 - **TextRNN:** Recurrent neural network model using bidirectional LSTM to capture long-term dependencies in text sequences.
 
-## Future Work
 
-- Expand model support with more advanced models like BERT and Transformer.
-- Provide batch processing API endpoints for large-scale predictions.
-- Enhance the user interface with additional features like saving prediction history.
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for more details.
